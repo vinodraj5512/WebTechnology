@@ -1,0 +1,47 @@
+#navigation{
+    height: 35px;
+    background-color: orange;
+}
+.navi{
+    font-size: opx;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: opx;
+
+}
+#hyper-one{
+    position: relative;
+    left: 74px;
+}
+#hyper-two{
+    position: relative;
+    left: 225px;
+
+}
+#hyper-three{
+    position: relative;
+    left: 406px;
+}
+#content{
+    height: 250px;
+    width: 1115px;
+    background-color: cadetblue;
+    position: relative;
+    top: -16px;
+
+}
+#ads{
+    height: 535px;
+    width: 238px;
+    background-color: coral;
+    position: relative;
+    left: 1115px;
+    top: -550px;
+}
+#bottom{
+    height: 70px;
+    background-color: crimson;
+    position: relative;
+    top: -551px;
+}

@@ -1,0 +1,132 @@
+#nav1{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+    text-align:left;
+}
+#nav2{
+    
+    height: 25px;
+    width: 100%;
+    position: relative;
+    left: 25px;
+    font-size: 30px;
+}
+
+#select1{
+    border: opx solid white ;
+    
+}
+.u{
+    text-decoration: none;
+    text-align-last: auto;
+    position: relative;    
+    left: 200px;
+    font-size: 25px;
+}
+a:hover{
+    color:orange;
+}
+
+
+#s1{
+    background-color: tomato;
+    position: relative;
+    left:-28px;
+}
+#s2{
+    background-color:turquoise;
+    position: relative;
+    left:-31px;
+
+}
+#s3{
+    background-color:violet;
+    position: relative;
+    left: -33px;
+    
+}
+#s4{
+    background-color:teal;
+    position: relative;
+    left: -35px;
+}
+#s5{
+    background-color:blueviolet;
+    position: relative;
+    left: -37px;
+}
+#s6{
+    background-color:crimson;
+    position: relative;
+    left: -39px;
+}
+#s7{
+    background-color: coral;
+    position: relative;
+    left: -41px;
+}
+#s8{
+    background-color: darkgray;
+    position: relative;
+    left: -43px;
+}
+#s9{
+    background-color: darksalmon;
+    position: relative;
+    right:45px;
+}
+#s10{
+    background-color: dimgrey;
+    position: relative;
+    right:47px;
+}
+#s11{
+    background-color: dodgerblue;
+    position: relative;
+    right:49px;
+}
+.n2{
+    position: relative;
+    text-align: justify;
+    font-size: 20px;
+}
+#c1{
+    height: 200px;
+    width: 427px;
+    background-color:indianred;
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+
+
+    
+    
+}
+#c2{
+    height:200px;
+    width: 439px;
+    background-color: orange;
+    position: relative;
+    left: 427px;
+    top: -213px;
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+
+}
+#c3{
+    height: 200px;
+    width: 476px;
+    background-color:peru;
+    position: relative;
+    left: 866px;
+    top: -413px;
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+
+}
